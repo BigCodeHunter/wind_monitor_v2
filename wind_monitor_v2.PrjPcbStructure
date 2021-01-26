@@ -1,3 +1,4 @@
 Record=TopLevelDocument|FileName=connections.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=connections.SchDoc|FileName=controller.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=connections.SchDoc|FileName=current sense.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=connections.SchDoc|FileName=power section.SchDoc|SheetNumber=2
