@@ -1,0 +1,7 @@
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Black
+Added Differential Pair: Name=CURRENT
+Added Differential Pair: Name=USART
+Added Differential Pair: Name=USB
+Added Class: Name=current
+Added Class: Name=usart
+Added Class: Name=usb

@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=U8 Old Footprint=FP-SSOP-28-IPC_B New Footprint=FP-SSOP-28-IPC_B
+Change Component Footprint: Designator=U2 Old Footprint=STM-LQFP48_M New Footprint=STM-LQFP48_H
+Added Component: Designator=U1(2x16 Lcd Top Left 36x80mm)

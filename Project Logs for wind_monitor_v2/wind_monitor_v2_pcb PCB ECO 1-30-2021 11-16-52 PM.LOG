@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=NetC17_1 Pin=L1-1
+Added Pin To Net: NetName=+20 Pin=L1-2
+Added Member To Class: ClassName=power section Member=Component L1 100uH

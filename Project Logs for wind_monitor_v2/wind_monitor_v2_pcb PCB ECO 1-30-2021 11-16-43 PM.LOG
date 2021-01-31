@@ -1,0 +1,8 @@
+Added Component: Designator=L1(WE-PD_1245)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "ozdisan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://ozdisan.com/passive-components/inductors/fixed-inductors/SRI1204-331M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3.28A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DCR"; Value = "170m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions"; Value = "12x12x8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uH"; VariantName = "[No Variations]"

@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=+5 Pin=U1-2
+Added Pin To Net: NetName=NetR10_2 Pin=U1-3
+Added Pin To Net: NetName=LCD_RS Pin=U1-4
+Added Pin To Net: NetName=LCD_RW Pin=U1-5
+Added Pin To Net: NetName=LCD_E Pin=U1-6
+Added Pin To Net: NetName=LCD_DB4 Pin=U1-11
+Added Pin To Net: NetName=LCD_DB5 Pin=U1-12
+Added Pin To Net: NetName=LCD_DB6 Pin=U1-13
+Added Pin To Net: NetName=LCD_DB7 Pin=U1-14
+Added Pin To Net: NetName=NetQ1_3 Pin=U1-15
+Added Pin To Net: NetName=NetR5_1 Pin=U1-16

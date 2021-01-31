@@ -1,0 +1,31 @@
+Removed Member From Class: ClassName=controller Member=C20
+Removed Member From Class: ClassName=power section Member=C32
+Added Member To Class: ClassName=controller Member=Component C15 0.1µF
+Added Member To Class: ClassName=power section Member=Component C17 2200pF
+Added Member To Class: ClassName=power section Member=Component C18 1200pF
+Added Member To Class: ClassName=power section Member=Component C19 47uF, 80V
+Added Member To Class: ClassName=power section Member=Component C21 2.2µF
+Added Member To Class: ClassName=power section Member=Component C22 47pF
+Added Member To Class: ClassName=power section Member=Component C23 4.7µF
+Added Member To Class: ClassName=power section Member=Component C24 4.7µF
+Added Member To Class: ClassName=power section Member=Component C25 1µF
+Added Member To Class: ClassName=power section Member=Component C26 1µF
+Added Member To Class: ClassName=power section Member=Component C28 10µF
+Added Member To Class: ClassName=power section Member=Component C30 100uF, 35V
+Added Member To Class: ClassName=connections Member=Component C31 0.1µF
+Added Member To Class: ClassName=connections Member=Component C33 0.1µF
+Added Member To Class: ClassName=connections Member=Component C34 10000pF
+Added Member To Class: ClassName=connections Member=Component C35 10000pF
+Added Member To Class: ClassName=connections Member=Component C37 0.1µF
+Added Member To Class: ClassName=connections Member=Component C38 0.1µF
+Added Member To Class: ClassName=connections Member=Component C39 4.7µF
+Added Member To Class: ClassName=connections Member=Component C40 0.1µF
+Added Member To Class: ClassName=current sense Member=Component C42 0.1µF
+Added Member To Class: ClassName=current sense Member=Component C43 0.33µF
+Added Member To Class: ClassName=current sense Member=Component PAD3 4.5mm
+Added Member To Class: ClassName=connections Member=Component Q3 BCP56
+Added Member To Class: ClassName=controller Member=Component R12 1.6 kOhms
+Added Member To Class: ClassName=controller Member=Component R14 1.6 kOhms
+Added Member To Class: ClassName=connections Member=Component R33 1 kOhms
+Added Member To Class: ClassName=connections Member=Component R36 100 kOhms
+Added Member To Class: ClassName=power section Member=Component U7 3.3V

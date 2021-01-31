@@ -1,0 +1,30 @@
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=+5 Pin=C?-2
+Added Pin To Net: NetName=+5 Pin=C?-2
+Added Pin To Net: NetName=+20 Pin=C?-2
+Added Pin To Net: NetName=+20 Pin=C?-2
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=+5 Pin=L?-2
+Added Pin To Net: NetName=+20 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=+5 Pin=R?-2
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=+20 Pin=U?-8
+Added Member To Class: ClassName=power section Member=Component C? 10nF
+Added Member To Class: ClassName=power section Member=Component C? 0.1µF
+Added Member To Class: ClassName=power section Member=Component C? 2.2µF
+Added Member To Class: ClassName=power section Member=Component C? 22µF
+Added Member To Class: ClassName=power section Member=Component C? 22nF
+Added Member To Class: ClassName=power section Member=Component C? 1µF
+Added Member To Class: ClassName=power section Member=Component D? SS14
+Added Member To Class: ClassName=power section Member=Component L? 330uH
+Added Member To Class: ClassName=power section Member=Component R? 360 kOhms
+Added Member To Class: ClassName=power section Member=Component R? 1 kOhms
+Added Member To Class: ClassName=power section Member=Component R? 133 kOhms
+Added Member To Class: ClassName=power section Member=Component R? 1 kOhms
+Added Member To Class: ClassName=power section Member=Component R? 220 mOhms
+Added Member To Class: ClassName=power section Member=Component U? LM5007

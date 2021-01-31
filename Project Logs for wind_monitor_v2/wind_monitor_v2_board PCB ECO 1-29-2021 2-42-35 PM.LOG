@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=CURRENT- Pin=PAD2-1
+Change Component Footprint: Designator=U8 Old Footprint=FP-SSOP-28-IPC_B New Footprint=FP-SSOP-28-IPC_B
+Added Component: Designator=FUSE1(3522 ATOF FUSE)
+Add component (AddParameter): Name = "Value"; Value = "25A"; VariantName = "[No Variations]"
+Added Component: Designator=PAD3(Single Pad 4.5mm)
+Added Pin To Net: NetName=NetFUSE1_1 Pin=FUSE1-1
+Added Pin To Net: NetName=NetFUSE1_1 Pin=FUSE1-1
+Added Pin To Net: NetName=NetFUSE1_1 Pin=PAD2-1
+Added Net: Name=NetFUSE1_1

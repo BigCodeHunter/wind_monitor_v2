@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=CON1-2
+Change Component Comment : Designator=F1 Old Comment=2A New Comment=1A
+Change component parameters: Designator = "F1" ("F1"); Footprint = "5x20 fuse holder clip R3-5A"; UniqueID = "\FSHNEMAH" ("\FSHNEMAH")
+Change component parameters (AddParameter): Name = "Value"; Value = "1A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CON1-1
+Added Pin To Net: NetName=NetCON1_2 Pin=CON1-2
+Added Pin To Net: NetName=NetCON1_2 Pin=F1-1
+Added Pin To Net: NetName=NetCON1_2 Pin=F1-1
+Added Net: Name=NetCON1_2
