@@ -124,6 +124,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YHGIWRKV
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for wind_monitor_v2\Design Rule Check - wind_monitor_v2_pcb.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
